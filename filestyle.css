@@ -15,8 +15,17 @@ h2 {
 }
 
 
+p {
+    color: #ffffff;
+    font-family: "Garamond", serif;
+    font-size: 20px;
+    margin: 20px;
+    background: #000000;
+}
+
 body {
   text-align: center;
   background: #000000;
 
 }
+
